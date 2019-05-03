@@ -1,6 +1,7 @@
 # HelloWorld
 My first repository in GitHub
 
-I can do anything!
+## Introduction (maybe)
+Here is Apple, a freshman learning C++, C# and Python.
 
-$\int_0{1}x^2=\frac13$
+Double major in **Computer Science** and **Mathmatics**.
